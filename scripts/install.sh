@@ -4,7 +4,7 @@
 
 set -e
 
-REPO="YOUR_USER/blitz-cli"
+REPO="yash-srivastava19/blitz-cli"
 BIN_DIR="${HOME}/.local/bin"
 BIN_NAME="blitz"
 
